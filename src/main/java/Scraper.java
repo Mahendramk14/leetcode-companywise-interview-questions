@@ -14,8 +14,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Scraper {
-    private static final String USERNAME = ""; // Provide your LeetCode username
-    private static final String PASSWORD = ""; // Provide your LeetCode password
+    private static final String USERNAME = "MahendraK10"; // Provide your LeetCode username
+    private static final String PASSWORD = "Mahendra@19"; // Provide your LeetCode password
     public static final int QUESTIONS_PAGE_WAIT_MILLIS = 25000;
     public static final int LOGIN_PAGE_WAIT_MILLIS = 2000;
     WebDriver driver;
